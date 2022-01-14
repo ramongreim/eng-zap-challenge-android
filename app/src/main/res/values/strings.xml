@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeChallengeZAPGroup</string>
+    <string name="head_line">Teste de engenharia do GrupoZap</string>
+    <string name="subtitle">Clique abaixo para filtrar os imóveis por portal</string>
+</resources>
