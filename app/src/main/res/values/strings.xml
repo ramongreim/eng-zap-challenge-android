@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CodeChallengeZAPGroup</string>
+    <string name="head_line">Teste de engenharia do GrupoZap</string>
+    <string name="subtitle">Clique abaixo para filtrar os imóveis por portal</string>
+    <string name="quartos">quartos</string>
+    <string name="banheiros">banheiros</string>
+    <string name="imovel_tipo_aluguel">Imóvel para Aluguel</string>
+    <string name="imovel_tipo_venda">Imóvel para Venda</string>
+    <string name="metros">m²</string>
+    <string name="valor">Valor:</string>
+    <string name="vagas">vagas</string>
+    <string name="ver_mais">Ver Mais</string>
+</resources>
